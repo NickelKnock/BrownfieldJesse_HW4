@@ -64,7 +64,7 @@ def plotMcPlotFace(stats0, stats1):
     Plot the PDF and CDF using the data in the stats function.
 
     Using the axes objects from the matplot allows more gradual control over each plot without as much fussing with
-    the subplots as much.
+    the subplots.
 
     As instructed we don't return any values but just the plots of each.
     """
