@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b0b4cb1-583c-49ea-a6f6-a6954a94da76" name="Changes" comment="A complete gutting&#10;and rework using a&#10;fresh brain." />
+    <list default="true" id="4b0b4cb1-583c-49ea-a6f6-a6954a94da76" name="Changes" comment="A complete gutting&#10;and rework using a&#10;fresh brain.">
+      <change beforePath="$PROJECT_DIR$/HW4_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW4_a.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
